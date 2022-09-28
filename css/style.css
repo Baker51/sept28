@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+
+
+.background {
+    background-image: url(../images/Colorado2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hello {
+    text-align: center;
+    font-size: 120px;
+}
+.display-4 {
+    font-size: 110px;
+    color: #F10206;
+font-family: 'Montserrat', sans-serif;    line-height: 104px;
+    text-align: center;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+.nslogotop {
+    width: 90%;
+    height: 90%;
+}
+.lead {
+    padding-top: 43px;
+}
+.hyapatia {
+    margin-top: -101px;
+}
+
+/*navbar area below*/
+
+.navbar {
+    background-color: #EAEE06;
+}
+.osiyo {
+    margin-top: -140px;
+    margin-bottom: 57px;
+}
+
+
+.navbar ul {
+	
+	
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	
+}
+
+
+.navbar li {
+	
+	display: inline-block;
+	
+}
+
+
+.navbar a {
+    text-decoration: none;
+    color: red;
+    width: 100px;
+    display: block;
+    padding: 25px 20px;
+    font-weight: bold;
+    font-family: arial;
+    text-align: center;	
+}
+.navbar a:hover {
+	
+	background:black;
+	
+}
+.navbar li a {
+    text-align: right;
+    padding-right: 290px;
+    padding-left: 146px;
+}
+.extrabox {
+}
+.turtle {
+    margin-top: 74px;
+}
